@@ -244,6 +244,14 @@ table td {
   text-decoration: underline;
 }
 
+/* Logo Styling */
+.login-logo {
+  display: block;
+  margin: 0 auto 80px; /* Center the logo and add spacing below */
+  width: 300px; /* Adjust the width as necessary */
+  height: auto; /* Maintain aspect ratio */
+}
+
 /* Responsive Styling */
 @media (max-width: 768px) {
   .container {
